@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* 
+* Birla Institute of Technology and Science, Pilani
+  *B.E.,Electrical and Electronics Engineering, CGPA - 8.21
 
 Work experience
 ======
@@ -21,9 +22,10 @@ Skills
 ======
 * C
 * Python
-  * numpy
+  * numpy,pandas
 * Robot Operating System
 * C++
+* Also comfortable with development boards such as Arduino, ESP-32, Cypress' PSOC4 BLE and Raspberry Pi.
 
 <!-- Publications
 ======
@@ -46,3 +48,5 @@ Skills
 Extra Curricular Activities
 ======
 * Currently, CTE course head of the Electronics and Robotics Club.
+* Active member of Aerodynamics Club.
+* Student Committee Member in Sandbox, a prototyping facility in BITS, Goa Campus.

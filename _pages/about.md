@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-Hello!!!
+Hello!!! This is Harshal Deshpande's website.
+

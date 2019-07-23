@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Harshal Deshpande"
 title_separator          : "-"
-name                     : "Harshal Deshpande"
-description              : "Constant Learner"
+name                     : &name "Harshal Deshpande"
+description              : &description "Constant Learner"
 url                      : https://hardesh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hardesh/hardesh.github.io"
@@ -88,7 +88,7 @@ author:
   pubmed           : 
   googlescholar    : ""
   email            : "f20170315@goa.bits-pilani.ac.in"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
