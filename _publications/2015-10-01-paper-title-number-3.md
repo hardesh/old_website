@@ -9,4 +9,4 @@ paperurl:
 citation: 
 ---
 
-Sadly I don't have any publications till now. 
+Sadly I don't have any publications. 
