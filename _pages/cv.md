@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Birla Institute of Technology and Science, Pilani
-  *B.E.,Electrical and Electronics Engineering, CGPA - 8.21
+  * B.E.,Electrical and Electronics Engineering, CGPA - 8.21
 
 Work experience
 ======
