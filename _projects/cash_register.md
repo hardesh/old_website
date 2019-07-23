@@ -1,7 +1,7 @@
 ---
 title: "Cash Register Using 8086"
 collection: projects
-permalink: /Projects/Cash Register
+permalink: /Projects/Cash_Register
 excerpt: 
 date: 20-04-2019
 venue: 'BITS Goa'
