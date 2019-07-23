@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: 
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -54,3 +54,8 @@ Extra Curricular Activities
 * Student Committee Member in Sandbox, a prototyping facility in BITS, Goa Campus.
 
 
+Interests
+------
+* Embedded Systems
+* Robotics
+* Astronomy and Astrophysics
