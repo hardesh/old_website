@@ -59,3 +59,4 @@ Interests
 * Embedded Systems
 * Robotics
 * Astronomy and Astrophysics
+* Photography
