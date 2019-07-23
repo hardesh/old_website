@@ -1,7 +1,7 @@
 ---
 title: "Low Cost Modular Quadcopter"
 collection: projects
-permalink: /Projects/urc_arm
+permalink: /Projects/mod_quad
 excerpt: 
 date: 
 venue: 'BITS Goa'
