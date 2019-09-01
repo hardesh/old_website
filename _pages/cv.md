@@ -64,4 +64,3 @@ Interests
 
 Checkout my latest CV at: [link](https://www.dropbox.com/s/97o9lcr44ipwam1/CV_Latest.docx?dl=0)
 
-{{% staticref "files/cv.pdf" %}}Download my CV{{% /staticref %}} 
