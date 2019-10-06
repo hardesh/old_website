@@ -9,3 +9,4 @@ paperurl:
 citation: 
 ---
 
+Trotbot is an autonomous delivey robot.
