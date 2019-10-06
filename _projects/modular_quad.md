@@ -13,4 +13,6 @@ citation:
 - Tried to optimize the design for better strength. 
 
 ![](https://raw.githubusercontent.com/hardesh/hardesh.github.io/master/_projects/images/quad_1.jpg "Wide angle")
+
+
 ![](https://raw.githubusercontent.com/hardesh/hardesh.github.io/master/_projects/images/quad_2.jpg "Close-up")
