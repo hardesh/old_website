@@ -14,5 +14,7 @@ I'm undergraduate student from Birla Institute of Technology and Science Pilani,
 
 I'm currently interested in Robotics, particularly aerial robotics. I am also interested in the role of embedded systems in our day-to-day life. 
 
+Apart from my technical interests, I also like to take [pictures](https://www.instagram.com/harshulk254/). I like to read about astronomy & astrophysics and I am into PC gaming.
+
 I'm looking for Undergraduate Thesis/RA opportunities in the field of Robotics from summer 2020. 
 
