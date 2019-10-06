@@ -20,8 +20,7 @@ Code can be found in these repos: [repo1](https://github.com/ERC-BPGC/Trotbot)
 
 My Contributions:
 - Team Lead for the academic year: 2019-20
-- Obstacle detection using RP-Lidar
-- Also worked on initial stages of the path planner
+- Worked on initial stages of the path planner
 - Odometry using an optical mouse
 - Presently working on getting odometry from Intel Realsense D435i
 
