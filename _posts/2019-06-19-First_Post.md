@@ -1,10 +1,10 @@
 ---
 title: 'First Post'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+date: 2019-03-10
+permalink: /posts/2019/first_post
 tags:
 ---
 
 Hello!!
 
-This is just a demo first post.
+This post is under construction....

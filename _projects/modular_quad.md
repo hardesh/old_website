@@ -9,4 +9,8 @@ paperurl:
 citation: 
 ---
 
-This article is about mod copter. 
+- Developed a modular quadcopter using plywood sheets. 
+- Tried to optimize the design for better strength. 
+
+![](./images/quad_1.jpg?raw=true "Wide angle")
+![](./images/quad_2.jpg?raw=true "Close-up")

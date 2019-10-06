@@ -9,4 +9,3 @@ paperurl:
 citation: 
 ---
 
-This article is about trotbot. 
