@@ -12,11 +12,11 @@ redirect_from:
 Education
 ------
 * Birla Institute of Technology and Science, Pilani
-  * B.E.,Electrical and Electronics Engineering, CGPA - 8.21
+  * B.E.,Electrical and Electronics Engineering, CGPA - 8.31
 
 Work experience
 ------
-* Summer 2019: Smart-i Electronics Systems
+* Summer 2019 - Smart-i Electronics Systems : [Report](https://drive.google.com/file/d/1JT9YcFCSw3aVZY0XAQkdkNZCTKH3wWmJ/view)
   
 Skills
 ------
@@ -41,6 +41,8 @@ Skills
   
 Teaching
 ------
+* Instructor for the Introduction to Robotics Course under CTE - [link](https://bpgc-cte.org/courses/5d4a83f4e99b437fd9e379fe/view/)
+
 * Taught basic principle of PID Controller to over 50 juniors in the annual drone making workshop of aerodynamics club, [DRONACHARYA](https://www.facebook.com/AeroD.BITSGoa/posts/1553372214796381)
 
 * Mentor for [Intro to Robot Operating System-QSTP](https://github.com/hardesh/QSTP-Introduction_to_ROS), Summer 2019
