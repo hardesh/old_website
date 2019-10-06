@@ -14,4 +14,4 @@ Designed a memory for the microprocessor and I/O interfacing with LCD and buzzer
 Check out the final report [here](https://drive.google.com/file/d/12kXuHjle5-HHcvq6aMaylvQ0UawGTXko/view?usp=sharing).
 
 
-![](https://raw.githubusercontent.com/hardesh/hardesh.github.io/master/_projects/images/mup_1.jpg "8086")
+![](https://raw.githubusercontent.com/hardesh/hardesh.github.io/master/_projects/images/mup_1.png "8086")
