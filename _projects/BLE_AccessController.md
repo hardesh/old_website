@@ -21,4 +21,5 @@ Here are some highlights of the project:
 You can find the detailed report of the project: [Here](https://drive.google.com/file/d/1JT9YcFCSw3aVZY0XAQkdkNZCTKH3wWmJ/view?usp=sharing) 
 
 
-![](https://raw.githubusercontent.com/hardesh/hardesh.github.io/master/_projects/images/smart-i.png "certificate"){height="36px" width="36px"}
+
+![](https://raw.githubusercontent.com/hardesh/hardesh.github.io/master/_projects/images/smart-i.png "certificate")
