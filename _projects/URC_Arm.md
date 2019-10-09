@@ -9,6 +9,9 @@ paperurl:
 citation: 
 ---
 
+Status: Active
+
+
 I am a member of the robot arm subsystem in Project Kratos. We are aiming to participate in the University Rover Challenge, 2020 in Utah.
 I am presently working on the control system of the arm. I have also helped in designing the arm.  
 I have also worked in the drive system of the rover.

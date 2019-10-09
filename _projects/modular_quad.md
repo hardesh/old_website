@@ -9,6 +9,9 @@ paperurl:
 citation: 
 ---
 
+Status: Archived
+
+
 - Developed a modular quadcopter using plywood sheets. 
 - Tried to optimize the design for better strength. 
 

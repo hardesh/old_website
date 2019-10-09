@@ -9,6 +9,9 @@ paperurl:
 citation: 
 ---
 
+Status: Archived
+
+
 - Worked on the design of the plane.
 - Also worked on initial phases of automation. I proposed a flytos based navigation system for the plane. 
 

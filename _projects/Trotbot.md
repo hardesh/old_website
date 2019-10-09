@@ -9,6 +9,9 @@ paperurl:
 citation: 
 ---
 
+Status: Active
+
+
 Trotbot is a robot designed to serve as a delivery robot in an indoor environment. 
 The deliverables will be placed inside the container. It will be able to autonomously navigate around obstacles and reach
 waypoints set in and around its environment.
