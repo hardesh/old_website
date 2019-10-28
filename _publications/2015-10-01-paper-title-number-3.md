@@ -3,7 +3,7 @@ title: "None"
 collection: publications
 permalink: /publication/no-paper
 excerpt: 
-date: 21-06-2019
+date: 21-06-2024
 venue: 'Journal 1'
 paperurl: 
 citation: 
