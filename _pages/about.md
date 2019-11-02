@@ -16,5 +16,5 @@ I'm currently interested in Robotics, particularly aerial robotics. I am also in
 
 Apart from my technical interests, I like to take [pictures](https://www.instagram.com/harshulk254/). I like to read about astronomy & astrophysics and I am also into PC gaming.
 
-I'm looking for Undergraduate Thesis/RA opportunities in the field of Robotics from summer 2020. 
+I'm looking for Undergraduate Thesis/RA opportunities in the field of Robotics (motion planning and SLAM) from summer 2020. 
 
