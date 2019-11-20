@@ -64,5 +64,5 @@ Interests
 * Photography
 
 
-Checkout my latest CV at: [link](https://www.dropbox.com/s/97o9lcr44ipwam1/CV_Latest.docx?dl=0)
+Checkout my latest CV at: [link](https://drive.google.com/file/d/1x24BjJaPYE9HILo5xdMbmuG2BdMtjo5i/view?usp=sharing)
 
