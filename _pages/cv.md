@@ -1,10 +1,11 @@
 ---
 layout: archive
 title: 
-permalink: https://drive.google.com/file/d/1x24BjJaPYE9HILo5xdMbmuG2BdMtjo5i/view?usp=sharing
-author_profile: true
+permalink: /cv/
+# author_profile: true
 redirect_from:
   - /resume
+redirect_to: https://drive.google.com/file/d/1x24BjJaPYE9HILo5xdMbmuG2BdMtjo5i/view?usp=sharing
 ---
 
 {% include base_path %}
